@@ -1,3 +1,5 @@
 # Qt5_Advanced_1.19_Threads_QThreadedExample
 
-#SourceCode to be added soon
+#Under threads, QThreaded example discussed and
+
+#SourceCode added 
